@@ -2,6 +2,9 @@
 
 A simple To-Do List application built using HTML, CSS, and JavaScript.
 
+## Live demo
+ https://ansh-singh-dev.github.io/Todo-app-JavaScript/
+
 ## Features
 - Add tasks
 - Mark tasks as completed
